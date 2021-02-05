@@ -8,5 +8,6 @@
 <h2>Technical Bugs</h2>
 <h4>
   <a href="bugs/launcher-not-opening">My launcher isn't opening</a>
+  <br>
   <a href="bugs/launcher-not-responding">My launcher isn't responding</a>
   </h4>
